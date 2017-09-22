@@ -1,0 +1,6 @@
+import turtle
+for i in range(20):
+    turtle.forward(500)
+    turtle.right(500)
+    turtle.clear()
+    turtle.write("江奇",font=("Times",20,"bold"))
