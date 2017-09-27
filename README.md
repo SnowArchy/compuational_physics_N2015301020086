@@ -1,2 +1,2 @@
 # Homelist
-[x]  [Exercise_01：拼出自己的名字]()
+- [x] [Exercise_01：拼出自己的名字]()
