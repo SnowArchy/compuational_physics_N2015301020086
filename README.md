@@ -21,7 +21,7 @@
 > * 主要用了turtul
 > * 之前我还做了一个是用matplotlib做的利用了像素之类的图形，但由于自己是计算机小白没能完成全部    [名字动起来2:未完成](https://github.com/SnowArchy/compuational_physics_N2015301020086/blob/preface/exercise_02(2))
 
-## - [x] [Homework 3](https://github.com/SnowArchy/compuational_physics_N2015301020086/blob/preface/exercise_03)
+## - [x] [Homework 3](https://github.com/SnowArchy/compuational_physics_N2015301020086/blob/master/Chapter1/exercise_03)
 > * chapter 1 的课后习题（任选一题）
 
 
