@@ -23,6 +23,7 @@
 
 ## - [x] [Homework 3](https://github.com/SnowArchy/compuational_physics_N2015301020086/blob/master/Chapter1/exercise_03)
 > * chapter 1 的课后习题（任选一题）
+> * [I am the homework](https://www.zybuluo.com/login?return_to=https%3A%2F%2Fwww.zybuluo.com%2Fmdeditor#902331-full-reader)
 
 
 
