@@ -26,7 +26,7 @@
 ## [Homework 3](https://github.com/SnowArchy/compuational_physics_N2015301020086/blob/master/Chapter1/exercise_03)
 > * chapter 1 的课后习题（任选一题）
 > * python语法小白的我还是花了很长时间的，也借鉴了好多学长学姐的代码，在此统一表示感谢
-> * [I am the homework](https://www.zybuluo.com/login?return_to=https%3A%2F%2Fwww.zybuluo.com%2Fmdeditor#902331-full-reader)
+> * [I am the homework](https://www.zybuluo.com/SnowArchy/note/902331)
 
 
 
