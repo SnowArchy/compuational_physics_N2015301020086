@@ -32,11 +32,11 @@
 
 - [ ] work 4
 ## [Homework 4](https://github.com/SnowArchy/compuational_physics_N2015301020086/blob/master/Chapter1/exercise_04.py)
->*chapter 1 的课后习题（任选一题 1.6）
->*还是不太熟悉python语法慢慢学吧，依旧看了好多学长学姐的code，有些看得懂，有些看不懂还是那样rough
->*这一章还有一个补充题,就是玩玩pygame
->*[I am the homework](https://www.zybuluo.com/SnowArchy/note/909082) 
->*[pygame]()
+> * chapter 1 的课后习题（任选一题 1.6）
+> * 还是不太熟悉python语法慢慢学吧，依旧看了好多学长学姐的code，有些看得懂，有些看不懂还是那样rough
+> * 这一章还有一个补充题,就是玩玩pygame
+> * [I am the homework](https://www.zybuluo.com/SnowArchy/note/909082) 
+> * [pygame]()
 
 
 
