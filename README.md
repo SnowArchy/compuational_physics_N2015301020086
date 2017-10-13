@@ -36,7 +36,8 @@
 > * 还是不太熟悉python语法慢慢学吧，依旧看了好多学长学姐的code，有些看得懂，有些看不懂还是那样rough
 > * 这一章还有一个补充题,就是玩玩pygame
 > * [I am the homework](https://www.zybuluo.com/SnowArchy/note/909082) 
-> * [pygame](https://www.zybuluo.com/SnowArchy/note/914060#)
+> * 这就是补充题，由于我垃圾的语言基础，所以我的pygame写的作业很挫，主要是通过百度照葫芦画瓢，一步一步写出来的
+[pygame](https://www.zybuluo.com/SnowArchy/note/914060#)
 
 
 
