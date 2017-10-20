@@ -43,8 +43,10 @@
 
 
 
-- [ ] work 5
-## [[Homework 5]()
+- [x] work 5
+## [[Homework 5](https://github.com/SnowArchy/compuational_physics_N2015301020086/tree/master/chapter_2)
+>* chapter 2 的课后习题（任选一题 2.19）.
+>* [I am the homework](https://www.zybuluo.com/SnowArchy/note/922133)
 
 
 - [ ] work 6
