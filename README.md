@@ -51,7 +51,7 @@
 
 - [x] work 6
 ## [Homework 6]()
->*chapter 3 的课后习题 （任选一题 3.12）
+>*chapter 3 的课后习题 (任选一题 3.12)
 >*[I am the homework](https://www.zybuluo.com/SnowArchy/note/930681)
 
 
