@@ -55,5 +55,7 @@
 >* [I am the homework](https://www.zybuluo.com/SnowArchy/note/930681)
 
 
-- [ ] work 7
+- [x] work 7
 ## [Homework 7]()
+>* chapter 3 的课后习题 (任选一题 3.26)
+>* [I am the homework](https://www.zybuluo.com/SnowArchy/note/933212)
