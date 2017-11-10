@@ -59,3 +59,10 @@
 ## [Homework 7]()
 >* chapter 3 的课后习题 (任选一题 3.26)
 >* [I am the homework](https://www.zybuluo.com/SnowArchy/note/933212)
+
+
+- [x] work 8
+## [Homework 8]()
+>* chapter 3 的课后习题 (任选一题)
+>* [I am the homework](https://www.zybuluo.com/SnowArchy/note/947062)
+
