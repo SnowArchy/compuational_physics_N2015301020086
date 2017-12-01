@@ -24,7 +24,7 @@
 > * 之前我还做了一个是用matplotlib做的利用了像素之类的图形，但由于自己是计算机小白没能完成全部    [名字动起来2:未完成](https://github.com/SnowArchy/compuational_physics_N2015301020086/blob/master/Perface/exercise_02(2))
 
 
-[![42bqK.png](https://s1.ax1x.com/2017/12/01/42bqK.png)](https://imgchr.com/i/42bqK)- [x] work 3
+[x] work 3
 ## [Homework 3](https://github.com/SnowArchy/compuational_physics_N2015301020086/blob/master/Chapter1/exercise_03)
 > * chapter 1 的课后习题（任选一题）
 > * python语法小白的我还是花了很长时间的，也借鉴了好多学长学姐的代码，在此统一表示感谢
@@ -40,8 +40,6 @@
 > * [I am the homework](https://www.zybuluo.com/SnowArchy/note/914341)
 > * 这就是补充题，由于我垃圾的语言基础，所以我的pygame写的作业很挫，主要是通过百度照葫芦画瓢，一步一步写出来的
 [pygame](https://www.zybuluo.com/SnowArchy/note/914060#)
-
-
 
 
 
@@ -68,9 +66,11 @@
 >* chapter 3 的课后习题 (任选一题)
 >* [I am the homework](https://www.zybuluo.com/SnowArchy/note/947062)
 
+
 -[x] [期中作业](https://raw.githubusercontent.com/SnowArchy/compuational_physics_N2015301020086/master/%E6%9C%9F%E4%B8%AD)
-![]()
+![42bqK.png](https://s1.ax1x.com/2017/12/01/42bqK.png)](https://imgchr.com/i/42bqK)
 >* 这是我在网上找的拼凑的不知道什么原因运行出来有点问题
+
 
 - [x]work 9
 ## [homework 9]()
