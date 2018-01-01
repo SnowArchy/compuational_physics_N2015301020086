@@ -76,3 +76,26 @@
 ## [homework 9]()
 >* chapter 4 的课后习题
 >* [I am the homework](https://www.zybuluo.com/SnowArchy/note/971380)
+
+
+
+- [x] work 10
+## [Homework 10]()
+
+
+
+- [x] work 11
+## [Homework 11]()
+
+
+
+
+
+
+
+
+
+
+
+
+
