@@ -81,7 +81,7 @@
 
 
 - [x] work 10
-## [Homework 10]()
+## [Homework 10](https://raw.githubusercontent.com/SnowArchy/compuational_physics_N2015301020086/master/chapter_5)
 >* [I am the homework](https://www.zybuluo.com/SnowArchy/note/1004658)
 
 
